@@ -1,0 +1,1 @@
+This is a sample text file. It is in the same directory (Gittest) as sample.c
