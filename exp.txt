@@ -1,1 +1,3 @@
 This is a sample text file. It is in the same directory (Gittest) as sample.c
+
+This nw stuff was added from the NEW branch!
